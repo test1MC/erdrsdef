@@ -6,7 +6,7 @@
     Link="/Content/A_Getting Started/Getting Started.htm">
     <TocEntry
       Title="Basic Steps"
-      Link="/Content/C_Conditions Notes Tables/Basic Steps.htm" />
+      Link="/Content/B_Links and Lists/C_Conditions Notes Tables/Basic Steps.htm" />
     <TocEntry
       Title="What's New"
       Link="/Content/A_Getting Started/Whats New.htm" />
@@ -43,15 +43,15 @@
   </TocEntry>
   <TocEntry
     Title="More Features"
-    Link="/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm">
+    Link="/Content/B_Links and Lists/C_Conditions Notes Tables/ConditionsNotesTables.htm">
     <TocEntry
       Title="Conditions"
-      Link="/Content/C_Conditions Notes Tables/Conditions.htm" />
+      Link="/Content/B_Links and Lists/C_Conditions Notes Tables/Conditions.htm" />
     <TocEntry
       Title="Notes, Examples, and Blockquotes"
-      Link="/Content/C_Conditions Notes Tables/NotesExamplesBlockquotes.htm" />
+      Link="/Content/B_Links and Lists/C_Conditions Notes Tables/NotesExamplesBlockquotes.htm" />
     <TocEntry
       Title="Tables"
-      Link="/Content/C_Conditions Notes Tables/Tables.htm" />
+      Link="/Content/B_Links and Lists/C_Conditions Notes Tables/Tables.htm" />
   </TocEntry>
 </CatapultToc>
